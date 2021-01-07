@@ -3,7 +3,7 @@
 * **Author:** Richard Deegan
 * **Github:** Deego88
 * **Email:** G00387896@gmit.ie
-**Lecturer:** Ian McLoughlin
+* **Lecturer:** Ian McLoughlin
 ------------------------------------------------------------------------------------------------
 **Fundamentals of Data Analysis:** 
 
